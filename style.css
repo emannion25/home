@@ -1,6 +1,5 @@
 body{
   font-family: Verdana;
-  margin: 10px 100px;
 }
 
 #nav ul {
@@ -27,4 +26,8 @@ body{
 
 #nav li a:hover {
   background-color: #ddd;
+}
+
+#homecontent {
+  margin: 10px 100px;
 }
